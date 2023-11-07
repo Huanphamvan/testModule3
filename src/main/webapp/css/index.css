@@ -1,0 +1,15 @@
+.bg-color{
+    background-color: blue;
+}
+
+.bg-color a{
+    color: white;
+}
+
+img{
+    width: 100px;
+    height: 100px;
+}
+.head-color{
+    color: white;
+}
